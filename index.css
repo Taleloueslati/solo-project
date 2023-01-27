@@ -1,0 +1,60 @@
+
+body{
+  background-image:url(https://www.gannett-cdn.com/media/2022/11/16/USATODAY/usatsports/imageforentry8-n2a.jpg);
+  overflow: hidden;
+  background-repeat: no-repeat; 
+  background-size: 215vh;
+}
+  
+
+.display-container p{
+  font-size: 18px;
+}
+
+.grid-item img{
+  margin-top: 50px ;
+  width: 300px;
+  height: 200px;
+}
+.grid-item{
+  text-align: center;
+}
+.namecountrie{
+  text-align: center;
+  color: rgb(33, 0, 64);
+
+}
+.grid-item img{
+  margin-top: 50px ;
+  width: 500px;
+  height: 300px;
+}
+
+#bg-video {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -100;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+.homepage{
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+
+#cont{
+  color: rgb(215, 86, 6);
+  text-overflow: inherit;
+}
+.img1:hover{
+  transform: scale(1.5);
+}
+
+
